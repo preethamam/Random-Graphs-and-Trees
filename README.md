@@ -11,11 +11,10 @@ Creates Erdos-Renyi and geomtric random graphs and rapidly-exploring random tree
 -----
 
 # Requirements
-MATLAB <br />
-MATLAB - Mapping Toolbox (optional)
+MATLAB
 
 -----
 
 # MATLAB Central
-[![View Voronoi bounded rectangular or square limits on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/106380-voronoi-bounded-rectangular-or-square-limits)
+
 
