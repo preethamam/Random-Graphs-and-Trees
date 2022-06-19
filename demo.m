@@ -84,6 +84,8 @@ p1 = plot(G1,'XData',X,'YData',Y, 'NodeColor', 'yellow', ...
         'LineWidth', 2);
 p1.MarkerSize = 5;
 hold off
+ax1 = gca;
+exportgraphics(ax1,'erdos-renyi.png')
 
 %-------------
 % Random geomtric graph
@@ -99,7 +101,8 @@ p2 = plot(G2,'XData',X,'YData',Y, 'NodeColor', 'yellow', ...
         'LineWidth', 2);
 p2.MarkerSize = 5;
 hold off
-
+ax2 = gca;
+exportgraphics(ax2,'random-geometric.png')
 
 %-------------
 % RRT
@@ -117,7 +120,8 @@ p3 = plot(G3,'XData',X3,'YData',Y3, 'NodeColor', 'yellow', ...
         'LineWidth', 2);
 p3.MarkerSize = 5;
 hold off
-
+ax3 = gca;
+exportgraphics(ax3,'rrt.png')
 
 %-------------
 % RRT*
@@ -136,7 +140,8 @@ p4 = plot(G4,'XData',X4,'YData',Y4, 'NodeColor', 'yellow', ...
         'LineWidth', 2);
 p4.MarkerSize = 5;
 hold off
-        
+ax4 = gca;
+exportgraphics(ax4,'rrt_star.png')        
 
 %% End parameters
 %--------------------------------------------------------------------------
