@@ -25,6 +25,6 @@ MATLAB
 # Authors
 1. Dr. Preetham Manjunatha, Ph.D in Civil Engineering, M.S in Computer Science, M.S in Electrical Engineering and M.S in Civil Engineering, University of Southern California, Los Angeles, California, USA.
 
-2. Zhenghao Li ([shawnljn](https://github.com/shawnljn)), M.S in Computer Science (artificial intelligence), University of Southern California, Los Angeles, California, USA..
+2. Zhenghao Li ([shawnljn](https://github.com/shawnljn)), M.S in Computer Science (Artificial Intelligence), University of Southern California, Los Angeles, California, USA..
 
 
