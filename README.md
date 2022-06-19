@@ -20,6 +20,7 @@ MATLAB
 
 -----
 # MATLAB Central
+[![View Random graphs and trees on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113555-random-graphs-and-trees)
 
 ----
 # Authors
