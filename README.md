@@ -1,5 +1,5 @@
 # Random-Graphs-and-Trees
-Creates Erdos-Renyi and geomtric random graphs and rapidly-exploring random trees (RRT and RRT*)
+Creates Erdos-Renyi and geometric random graphs and rapidly-exploring random trees (RRT and RRT*)
 
 ----
 # Quick Pipeline Visualization
