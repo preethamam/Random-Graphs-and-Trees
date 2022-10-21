@@ -144,7 +144,7 @@ end
 
 % main loop
 iter = 1;
-for i = 1 : iter_n * 3
+for i = 1 : iter_n * 7
     if iter == iter_n
         break
     end
