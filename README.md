@@ -22,6 +22,8 @@ MATLAB
 # MATLAB Central
 [![View Random graphs and trees on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113555-random-graphs-and-trees)
 
+Please rate and provide feedback for the further improvements.
+
 ----
 # Authors
 1. Dr. Preetham Manjunatha, Ph.D in Civil Engineering, M.S in Computer Science, M.S in Electrical Engineering and M.S in Civil Engineering, University of Southern California, Los Angeles, California, USA.
