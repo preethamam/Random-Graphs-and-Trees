@@ -1,4 +1,6 @@
-# Random-Graphs-and-Trees
+# Introduction
+[![View Random graphs and trees on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113555-random-graphs-and-trees) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/Random-Graphs-and-Trees)
+
 Creates Erdos-Renyi and geometric random graphs and rapidly-exploring random trees (RRT and RRT*)
 
 ----
@@ -19,9 +21,7 @@ Creates Erdos-Renyi and geometric random graphs and rapidly-exploring random tre
 MATLAB
 
 -----
-# MATLAB Central
-[![View Random graphs and trees on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113555-random-graphs-and-trees)
-
+# Feedback
 Please rate and provide feedback for the further improvements.
 
 ----
